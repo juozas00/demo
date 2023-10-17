@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "if": "nodemon ./kintamieji/funkcijos.js",
+    "uzd": "nodemon ./kintamieji/uzd.js",
+    "pal": "nodemon ./kintamieji/if.js",
     "number": "nodemon ./kintamieji/number.js",
     "string": "nodemon ./kintamieji/string.js",
     "boolean": "nodemon ./kintamieji/boolean.js",
